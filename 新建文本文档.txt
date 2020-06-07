@@ -1,0 +1,1 @@
+slmgr.vbs /ipk RRPWN-69DBB-FDYV4-VTTYV-VT9R4
